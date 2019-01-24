@@ -1,4 +1,4 @@
-# Enjoy-Movie-V1
+# Enjoy-Movie-V2
 show the movie info using Architecture component
 
 ## Table of Contents
