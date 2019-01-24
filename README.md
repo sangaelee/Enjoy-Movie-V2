@@ -22,7 +22,7 @@ User also can search movies by name what they want.
 
 ## HowTo
 
-<img src="https://github.com/sangaelee/Enjoy-Movie-V2/blob/master/screenshot/ac.png" width="500"></img>
+<img src="https://github.com/sangaelee/Enjoy-Movie-V2/blob/master/screenshot/ac.png" width="800"></img>
 - get the json movie data regarding to Movies from themoviedb.org Api with .
 - TabLayout is implemented with ViewPager. ViewPager is used to swipe through pages of
 data.
